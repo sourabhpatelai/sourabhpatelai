@@ -9,8 +9,8 @@
 Building backend applications, distributed workflows, and business-driven services with Java and Spring Boot.
 
 <p>
-  <a href="https://www.linkedin.com/in/sourabhpatel-dev/"><img src="https://img.shields.io/badge/LinkedIn-sourabhpatel--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/sourabhpatel-dev"><img src="https://img.shields.io/badge/GitHub-sourabhpatel--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/sourabhpatelai/"><img src="https://img.shields.io/badge/LinkedIn-sourabhpatel--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/sourabhpatelai"><img src="https://img.shields.io/badge/GitHub-sourabhpatel--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:sourabhark.2308@gmail.com"><img src="https://img.shields.io/badge/Email-sourabhark.2308@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -91,7 +91,7 @@ Java Backend Developer with **4 years of professional software development exper
 - Multi-seller orders, inventory with payment-failure compensation, payment splits, coupons, returns, shipment tracking, invoices, verified reviews, seller operations (REST/Feign)
 - Observability: Spring Boot Actuator, Micrometer, Prometheus, Grafana, Zipkin; retries, timeouts, circuit breakers
 
-🔗 Repository: [github.com/sourabhpatel-dev/ecommerce-backend](https://github.com/sourabhpatel-dev/ecommerce-backend)
+🔗 Repository: [github.com/sourabhpatelai/ecommerce-backend](https://github.com/sourabhpatelai/ecommerce-backend)
 
 <img src="assets/sourhub-architecture.svg" width="100%" alt="SourHub high-level architecture diagram: Client, API Gateway, domain services, Kafka, PostgreSQL, Redis, Elasticsearch"/>
 
@@ -155,7 +155,7 @@ Focused on Java backend development and strengthened skills in Spring Boot, micr
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourabhpatel-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/sourabhpatel-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/sourabhpatelai/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/sourabhpatelai"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:sourabhark.2308@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
