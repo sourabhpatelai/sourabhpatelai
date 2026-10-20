@@ -9,8 +9,8 @@
 Building backend applications, distributed workflows, and business-driven services with Java and Spring Boot.
 
 <p>
-  <a href="https://www.linkedin.com/in/sourabhpatelai/"><img src="https://img.shields.io/badge/LinkedIn-sourabhpatel--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/sourabhpatelai"><img src="https://img.shields.io/badge/GitHub-sourabhpatel--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/sourabhpatelai/"><img src="https://img.shields.io/badge/LinkedIn-sourabhpatelai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/sourabhpatelai"><img src="https://img.shields.io/badge/GitHub-sourabhpatelai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:sourabhark.2308@gmail.com"><img src="https://img.shields.io/badge/Email-sourabhark.2308@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
